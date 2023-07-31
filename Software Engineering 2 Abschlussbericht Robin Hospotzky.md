@@ -36,6 +36,8 @@ Zudem erstellte ich die PowerPoint Präsentation zur Milestone Meeting- und der 
 Im Bereich Technik hatte ich ebenfalls mehrere Aufgaben in dem Projekt. Dazu zählte das Skizzieren der Webseite.   
 Dieser Schritt war einer der ersten, die wir in diesem Projekt angegangen sind. Denn durch die grobe Skizzierung der Webseite hatten alle die gleiche Vorstellung darüber, wie diese aussehen soll und es konnte ein HTML-Gerüst davon erstellt werden.   
 Jedoch wurde die Webseite schlussendlich eine Abwandlung der ursprünglichen Skizzierung. Durch agiles Projektmanagement wurde eine veränderte Lösung während der Erstellung der Webseite erschaffen, die eine schönere Lösung darstellt. So wurde die obere Navigationsleiste der Skizze in der praktischen Umsetzung auf die rechte Seite gebracht, um ein zentrales Feld für die Veranstaltungen zu haben, welches sowohl links als auch rechts durch Navigationsleisten eingeschränkt ist.  
+
+
 ![Bild der Sizze](/SkizzeSE2.png)
 
 Zu meinen Aufgaben gehörte auch das Erstellen der Navigationsleiste links und die Buttons dazu.  
